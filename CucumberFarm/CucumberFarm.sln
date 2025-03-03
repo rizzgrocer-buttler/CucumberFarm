@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Garlic.Core", "Garlic.Core\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Marigold.API", "Marigold.API\Marigold.API.csproj", "{D1406CD2-952B-4479-9B53-2E00C30C106E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Potato.Tool", "Potato.Tool\Potato.Tool.csproj", "{07596B65-0FAD-4771-AEB1-73BA0A732F72}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{D1406CD2-952B-4479-9B53-2E00C30C106E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D1406CD2-952B-4479-9B53-2E00C30C106E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D1406CD2-952B-4479-9B53-2E00C30C106E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07596B65-0FAD-4771-AEB1-73BA0A732F72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07596B65-0FAD-4771-AEB1-73BA0A732F72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07596B65-0FAD-4771-AEB1-73BA0A732F72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07596B65-0FAD-4771-AEB1-73BA0A732F72}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
